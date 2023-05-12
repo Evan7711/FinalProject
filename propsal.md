@@ -1,8 +1,8 @@
 Major Project Proposal
 --------------------------------------------------------------
-Description
+Description:
 --------------------------------------------------------------
-For the final project I will be creating a graphing calculator. It will be able to do all of the basic functions of a calculator as well as have the ability to display a graph
+For the final project I will be creating a graphing calculator. It will be able to do all of the basic functions of a calculator as well as have the ability to display a graph. Will be done alone.
 
 Need To Have List:
 --------------------------------------------------------------
