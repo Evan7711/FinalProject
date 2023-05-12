@@ -19,7 +19,7 @@ Nice To Have List:
 - square roots
 - different colours for different graphs
 
-Similar Projects
+Similar Projects:
 --------------------------------------------------------------
 There are a multitude of different qualities of graphing calculators online that have been made using coding
 
