@@ -23,6 +23,6 @@ Similar Projects:
 --------------------------------------------------------------
 There are a multitude of different qualities of graphing calculators online that have been made using coding
 
-Target Audience
+Target Audience:
 --------------------------------------------------------------
 Students in math based classes that may need a calculator that they can use online
