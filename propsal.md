@@ -8,8 +8,7 @@ Need To Have List:
 --------------------------------------------------------------
 - Display screen for graphing
 - ability to multiply, divide, subtract, and add
-- ability to calculate x - intercepts
-- ability to caluclate graph intercepts
+- ability to calculate x-intercepts
 - clean display for calculations
 
 Nice To Have List:
@@ -18,6 +17,7 @@ Nice To Have List:
 - ability to use powers
 - square roots
 - different colours for different graphs
+- ability to caluclate graph intercepts
 
 Similar Projects:
 --------------------------------------------------------------
