@@ -10,6 +10,7 @@ def Subtraction():
             minus = input("How much would you like to subtract from it: ")
             difference = int(base) - int(minus)
             print(f"The difference between {base} and {minus} is {difference}")
+            break
         except ValueError:
             print("Please input numbers only!")
     
