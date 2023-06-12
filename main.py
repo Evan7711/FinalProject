@@ -31,7 +31,7 @@ while True:
         """)
         addition.Addition()
     elif operation == "multiplication":
-        ("""
+        print("""
         To use multiplication:
         Enter the numbers you'd like to multiply with a space between each
         """)
